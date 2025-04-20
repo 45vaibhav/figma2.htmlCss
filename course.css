@@ -1,0 +1,371 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#course-section{
+    height: 200vh;
+    width: 100vw;
+    /* border: 2px solid red; */
+
+}
+#landing-navo{
+    height: 2.5%;
+    width: 100%;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 1rem;
+}
+#totc{
+    
+    height: 9vh;
+    width: 8%;
+    /* border: 2px solid black; */
+    margin-left: 4rem;
+    
+}
+#totc-father{
+    height: 7vh;
+    width: 80%;
+    /* border: 2px solid rgb(187, 22, 22); */
+    margin-bottom: 1rem;
+    padding-bottom: 1em;
+}
+#img-hard{
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+
+  
+}
+#about-section{
+    display: flex;
+    height:100% ;
+    width: 60%;
+    /* border: 2px solid black; */
+   justify-content: space-evenly;
+   text-align: center;
+}
+a{
+    padding-top: 0.5em;
+    text-decoration: none;
+    color: #5B5B5B;
+}
+#prof-sec{
+    height: 100%;
+    width: 10%;
+    /* border: 2px solid red; */
+    display: flex;
+}
+#profile{
+    clip-path: circle();
+}
+#prof-img{
+   object-fit: cover;
+    clip-path: circle();
+    height: 100%;
+    width: 100%;
+}
+#course-container1{
+    height: 45%;
+    width: 100%;
+    /* border: 2px solid green; */
+    background-color: #9DCCFF;
+    margin-top: 1REM;
+    padding-top: 2em;
+}
+#cont-box1{
+    height: 10%;
+    width: 87%;
+    /* border: 2px solid yellow; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5.2rem;
+    
+    text-align: center;
+    padding-top: 0.5em;
+}
+#title{
+    color: #252641;
+    font-size: 32px;
+}
+#h52{
+    color: #49BBBD;
+}
+#cont-box2{
+    height: 60%;
+    width: 88%;
+    /* border: 2px solid yellow; */
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.child-box{
+    height: 100%;
+    width: 30%;
+    /* border: 2px solid blue; */
+    background-color: #FFFFFF;
+    border-radius: 2rem;
+}
+.img-box{
+    height: 55%;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 0.3em;
+}#img1{
+    background-size: cover;
+    height: 90%;
+    width: 90%;
+    padding-left: 0.8em;
+    padding-top: 0.5em;
+}
+.box-info{
+    margin-top: 0.5rem;
+    margin-left: 0.9rem;
+}
+h5{
+    color: #252641;
+}
+#prof-box{
+    height: 20%;
+    width: 20%;
+    /* border: 2px solid black; */
+    display: flex;
+    padding-top: 1em;
+    justify-content: space-evenly;
+    margin-left: 0.7rem;
+}
+.prof-img2{
+    height: 60%;
+    width: 60%;
+    margin-bottom: 2rem;
+}
+#prof-name{
+    padding-top: 1em;
+    font-size: 16px;
+    color: #000000;
+}
+#line{
+    height: 1.5%;
+    width: 90%;
+    /* border: 2px solid black; */
+    margin-left: 4%;
+    background-color: #D9D9D9;
+}
+#color-line{
+    height: 100%;
+    width: 70%;
+    background-color: #49BBBD;
+}
+#para1{
+    margin-left: 75%;
+    margin-top: 0.3rem;
+    color: #00000080;
+}
+#button-cont{
+    height: 5vh;
+    width: 5vw;
+    /* border: 2px solid black; */
+    margin-top: 3rem;
+    margin-left: 84rem;
+}
+.button5{
+    padding: 0.6em 0.6em;
+    background-color: #49BBBD;
+    border-radius: 0.3rem;
+    border: none;
+    color: #FFFFFF;
+}
+#h2-feature{
+    margin-left: 4rem;
+    margin-top: 3rem;
+    color: #252641;
+    font-size: 32px;
+}
+#feature-cont{
+    height: 44%;
+    width: 100%;
+    /* border: 2px solid rgb(128, 0, 113); */
+}
+#feature-info{
+    height: 100%;
+    width: 90%;
+    /* border: 2px solid black; */
+    margin-left: 4rem;
+    margin-top: 1rem;
+}
+.feature-boxses{
+    height: 50%;
+    width: 100%;
+    /* border: 2px solid yellow; */
+    padding-top: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+.boxes{
+    border: 0.5px solid rgb(225, 222, 222);
+    height: 96%;
+    width: 23%;
+    text-align: center;
+    padding: 2em;
+    box-sizing: border-box;
+    border-radius: 1rem;
+}
+#logo-box{
+    height: 8vh;
+    width: 5vw;
+    /* border: 2px solid red; */
+    margin-left: 5rem;
+    margin-top: 1rem;
+    background-color: #9DCCFF4D;
+    text-align: center;
+    
+   
+}
+#img3{
+    margin-top: 0.5rem;
+}
+#feature-title{
+    margin-top: 0.5rem;
+    color: #000000;
+}
+#para2{
+    margin-top: 0.5rem;
+    color: #696984;
+}
+#online{
+    height: 70vh;
+    width: 100vw;
+    /* border: 2px solid blue; */
+}
+#online-cont{
+   height: 50%;
+   width: 90%;
+   /* border: 2px solid black; */
+   margin-top: 10rem;
+   margin-left: 4rem;
+   background-color:#252641 ;
+   border-radius: 1rem;
+   text-align: center;
+   padding: 2em 20em;
+   box-sizing: border-box;
+}
+#on-h2{
+    color: #FFFFFF;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#para3{
+    color: #FFFFFF;
+    margin-bottom: 1rem;
+}
+#button5{
+    padding: 1em 2em;
+    background-color: #49BBBD;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    color: #FFFFFF;
+    border: none;
+}
+.footer {
+    height: 50vh;
+    width: 100vw;
+    /* border: 2px solid black; */
+    background-color: #252641;
+    padding-top: 1em;
+    margin-top: 5rem;
+
+}
+#sub-foot{
+    /* border: 2px solid orange; */
+    height: 20%;
+    width: 20%;
+    margin-top: 2rem;
+    margin-left: 40rem;
+    display: flex;
+}
+
+#totc-foot {
+    height: 18%;
+    width: 18%;
+    border: 2px solid white;
+    margin-left: 40rem;
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+#img-fit{
+    /* border: 2px solid white; */
+}
+#totc-img{
+    height: 50%;
+    width: 30%;
+}
+
+#virtual {
+    border-left: 1px solid #626381;
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-right: 1em;
+    margin-left: 3rem;
+    color: #FFFFFF;
+
+}
+
+#footer1-last {
+    height: 40%;
+    width: 40%;
+    /* border: 2px solid pink; */
+    margin-left: 34rem;
+    padding-left: 6em;
+    padding-top: 1em;
+    box-sizing: border-box;
+}
+
+#sub {
+    margin-top: 2rem;
+    color: #B2B3CF;
+}
+
+#subscribe-section {
+    margin-top: 0.7rem;
+}
+
+#button3 {
+    font-size: 15px;
+    padding: 0.6em 3em;
+    border-radius: 3rem;
+    background-color: #49BBBD;
+    color: #FFFFFF;
+
+}
+
+#email {
+    border-radius: 3rem;
+    padding: 0.8em 4em;
+    background-color: #252641;
+}
+
+#last-sec {
+    height: 3%;
+    width: 30%;
+    /* border: 2px solid green; */
+    margin-top: 2rem;
+    margin-left: 38rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info {
+    border-right: 1px solid #B2B3CF;
+    padding-right: 1.5em;
+    color: #B2B3CF;
+}
+
+h5{
+    color: #B2B3CF;
+}
