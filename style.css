@@ -323,7 +323,7 @@ p {
     height: 20%;
     width: 20%;
     margin-top: 2rem;
-    margin-left: 40rem;
+    margin-left: 36rem;
     display: flex;
 }
 
@@ -331,7 +331,7 @@ p {
     height: 18%;
     width: 18%;
     border: 2px solid white;
-    margin-left: 40rem;
+    margin-left: 37rem;
     
     display: flex;
     justify-content: space-between;
@@ -359,7 +359,7 @@ p {
     height: 40%;
     width: 40%;
     /* border: 2px solid pink; */
-    margin-left: 35rem;
+    margin-left: 31rem;
     padding-left: 6em;
     padding-top: 1em;
     box-sizing: border-box;
@@ -394,7 +394,7 @@ p {
     width: 30%;
     /* border: 2px solid green; */
     margin-top: 2rem;
-    margin-left: 39rem;
+    margin-left: 35rem;
     display: flex;
     justify-content: space-evenly;
 }
